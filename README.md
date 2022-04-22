@@ -1,4 +1,4 @@
-# Data Analysis - Probability and Distributions
+# Data Analysis 3 - Probability and Distributions
 ### Topics:
 - Discrete Random Variables, Probability Mass Functions, Expectations.
 
